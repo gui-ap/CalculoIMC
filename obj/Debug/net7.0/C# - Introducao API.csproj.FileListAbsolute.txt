@@ -1,0 +1,15 @@
+C:\Users\Guilherme Pinheiro\Documents\C# - Introducao API\bin\Debug\net7.0\C# - Introducao API.exe
+C:\Users\Guilherme Pinheiro\Documents\C# - Introducao API\bin\Debug\net7.0\C# - Introducao API.deps.json
+C:\Users\Guilherme Pinheiro\Documents\C# - Introducao API\bin\Debug\net7.0\C# - Introducao API.runtimeconfig.json
+C:\Users\Guilherme Pinheiro\Documents\C# - Introducao API\bin\Debug\net7.0\C# - Introducao API.dll
+C:\Users\Guilherme Pinheiro\Documents\C# - Introducao API\bin\Debug\net7.0\C# - Introducao API.pdb
+C:\Users\Guilherme Pinheiro\Documents\C# - Introducao API\obj\Debug\net7.0\C# - Introducao API.csproj.AssemblyReference.cache
+C:\Users\Guilherme Pinheiro\Documents\C# - Introducao API\obj\Debug\net7.0\C# - Introducao API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guilherme Pinheiro\Documents\C# - Introducao API\obj\Debug\net7.0\C# - Introducao API.AssemblyInfoInputs.cache
+C:\Users\Guilherme Pinheiro\Documents\C# - Introducao API\obj\Debug\net7.0\C# - Introducao API.AssemblyInfo.cs
+C:\Users\Guilherme Pinheiro\Documents\C# - Introducao API\obj\Debug\net7.0\C# - Introducao API.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme Pinheiro\Documents\C# - Introducao API\obj\Debug\net7.0\C# - Introducao API.dll
+C:\Users\Guilherme Pinheiro\Documents\C# - Introducao API\obj\Debug\net7.0\refint\C# - Introducao API.dll
+C:\Users\Guilherme Pinheiro\Documents\C# - Introducao API\obj\Debug\net7.0\C# - Introducao API.pdb
+C:\Users\Guilherme Pinheiro\Documents\C# - Introducao API\obj\Debug\net7.0\C# - Introducao API.genruntimeconfig.cache
+C:\Users\Guilherme Pinheiro\Documents\C# - Introducao API\obj\Debug\net7.0\ref\C# - Introducao API.dll
